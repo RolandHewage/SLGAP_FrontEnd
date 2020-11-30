@@ -438,7 +438,7 @@ export default {
             params: {
               q: this.city,
               units: "imperial",
-              appid: "458f931ebdc18ecadcaeee6f54f2fc61"
+              appid: "<appid>"
             }
           })
           .then(response => {
